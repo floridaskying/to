@@ -1,0 +1,45 @@
+
+@font-face {font-family: "fengwei";
+  src: url('https://www.iqianyue.com/static/ty/static/fonts/iconfont.eot'); /* IE9*/
+  src: url('https://www.iqianyue.com/static/ty/static/fonts/iconfont.eot') format('embedded-opentype'), /* IE6-IE8 */
+  url('https://www.iqianyue.com/static/ty/static/fonts/ionuu.woff') format('woff'),
+  url('https://www.iqianyue.com/static/ty/static/fonts/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('https://www.iqianyue.com/static/ty/static/fonts/iconfont.svg') format('svg'); /* iOS 4.1- */
+}
+
+.fengwei {
+  font-family:"fengwei" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fw-info:before { content: "\e60b"; }
+
+.fw-wallet:before { content: "\e60c"; }
+
+.fw-write:before { content: "\e60d"; }
+
+.fw-draft:before { content: "\e60e"; }
+
+.fw-collection:before { content: "\e60f"; }
+
+.fw-logout:before { content: "\e611"; }
+
+.fw-person:before { content: "\e612"; }
+
+.fw-setting:before { content: "\e613"; }
+
+.fw-like:before { content: "\e614"; }
+
+.fw-tag:before { content: "\e615"; }
+
+.fw-link:before { content: "\e616"; }
+
+.fw-xiaocepost:before { content: "\e618"; }
+
+.fw-bought:before { content: "\e61a"; }
+
+.fw-xiaoce:before { content: "\e61b"; }
+
